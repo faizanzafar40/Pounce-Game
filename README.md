@@ -1,2 +1,2 @@
-# BOUNCE-Game-OOP
-A single player game built using C++ and OpenGL
+# BOUNCE
+A single player BOUNCE game built using C++ and OpenGL
